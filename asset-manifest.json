@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/farmermaster/static/css/main.5f361e03.chunk.css",
+    "main.js": "/farmermaster/static/js/main.75205564.chunk.js",
+    "main.js.map": "/farmermaster/static/js/main.75205564.chunk.js.map",
+    "runtime-main.js": "/farmermaster/static/js/runtime-main.2795a239.js",
+    "runtime-main.js.map": "/farmermaster/static/js/runtime-main.2795a239.js.map",
+    "static/js/2.8daf1556.chunk.js": "/farmermaster/static/js/2.8daf1556.chunk.js",
+    "static/js/2.8daf1556.chunk.js.map": "/farmermaster/static/js/2.8daf1556.chunk.js.map",
+    "index.html": "/farmermaster/index.html",
+    "precache-manifest.05e1f141c3e80c24925242ef90b1e441.js": "/farmermaster/precache-manifest.05e1f141c3e80c24925242ef90b1e441.js",
+    "service-worker.js": "/farmermaster/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/farmermaster/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.8daf1556.chunk.js.LICENSE.txt": "/farmermaster/static/js/2.8daf1556.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/farmermaster/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2795a239.js",
+    "static/js/2.8daf1556.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.75205564.chunk.js"
+  ]
+}
